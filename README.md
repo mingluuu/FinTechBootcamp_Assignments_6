@@ -16,4 +16,4 @@ To ensure installation was complete, run the following... 1) conda list hvplot 2
 
 **Instruction**
 ----
-Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use this application simply clone the repository and run the financial_planning_tools.ipynb in you Jupyter Lab Notebook.
+Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use this application simply clone the repository and run the san_francisco_housing.ipynb in you Jupyter Lab Notebook.
